@@ -1,4 +1,4 @@
-# firdge_temperature_pid
+# fridge_temperature_pid
 
 This project simulates the temperature regulation of a refrigerator using a PID controller. It models the effects of external temperature changes, random door openings, and the thermal characteristics of air inside the fridge.
 
